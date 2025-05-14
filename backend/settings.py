@@ -44,10 +44,10 @@ class _UiSettings(BaseSettings):
     title: str = "KB-TestBot"
     logo: Optional[str] = None
     chat_logo: Optional[str] = None
-    chat_title: str = "Start chatting"
-    chat_description: str = "This chatbot is configured to answer your questions"
+    chat_title: str = "Luxus"
+    chat_description: str = "Vi laver gak, fis og gøgl"
     favicon: str = "/favicon.ico"
-    show_share_button: bool = True
+    show_share_button: bool = False
     show_chat_history_button: bool = True
 
 
