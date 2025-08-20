@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mammoth": "^1.10.0"
+  },
+  "devDependencies": {
+    "cross-env": "^10.0.0"
+  }
+}
